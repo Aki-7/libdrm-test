@@ -1,4 +1,4 @@
-#libdrm test
+# libdrm test
 
 Direct Rendering Manager を 扱ってみる。
 Rustの勉強もしたかったので、
